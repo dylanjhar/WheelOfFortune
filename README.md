@@ -1,2 +1,2 @@
 # WheelOfFortune
-Guess the word in a limited amount of attempts to win
+In this simple game you are presented with an unkown word and a limited amount of attempts to guess all of the letters correctly
